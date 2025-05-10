@@ -1,2 +1,2 @@
 # Python-References
-1. Woking with multiple Python vesions (using conda)
+1. Working with multiple Python vesions (using conda)
